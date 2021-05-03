@@ -1,10 +1,10 @@
 # DNA_Sequencing
 Java Codecademy Project
 
- -. .-.   .-. .-.   .
-   \   \ /   \   \ / 
-  / \   \   / \   \  
- ~   `-~ `-`   `-~ `-
+//  -. .-.   .-. .-.   .
+//    \   \ /   \   \ / 
+//   / \   \   / \   \  
+//  ~   `-~ `-`   `-~ `-
 
 The genome of an organism stores all the genetic information necessary to build and maintain that organism. It is an organism’s complete set of DNA. DNA is composed of a series of nucleotides abbreviated as:
 
