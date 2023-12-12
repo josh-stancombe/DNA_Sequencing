@@ -26,7 +26,7 @@ Here are the three sequences that you are going to use to test your program:
 
     - "ATGCGATACGCTTGA"
     - "ATGCGATACGTGA"
-    - "ATTAATATGTACTGA"
+    - "ATGAATATGTACTGA"
 
 Codecademy - "String Methods Project" <br>
 URL: https://www.codecademy.com/courses/learn-java/projects/java-dna-sequencing

@@ -32,7 +32,7 @@ Here are the three sequences that you are going to use to test your program:
 
     - "ATGCGATACGCTTGA"
     - "ATGCGATACGTGA"
-    - "ATTAATATGTACTGA"
+    - "ATGAATATGTACTGA"
 
 Codecademy "String Methods Project"
 URL: https://www.codecademy.com/courses/learn-java/projects/java-dna-sequencing
@@ -45,7 +45,7 @@ public class DNA {
  
     String dna1 = "ATGCGATACGCTTGA";
     String dna2 = "ATGCGATACGTGA";
-    String dna3 = "ATTAATATGTACTGA";
+    String dna3 = "ATGAATATGTACTGA";
 
     peptideFinder(dna1);
     peptideFinder(dna2);
